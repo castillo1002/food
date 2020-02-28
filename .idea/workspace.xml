@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e04de79a-18f9-4984-9a4c-3bc25c472c43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="food" />
+  </component>
+  <component name="ProjectId" id="1WcwSyqyrP2KheoQXnKQIoSYIHy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/screens" />
+      <recent name="$PROJECT_DIR$/screens" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e04de79a-18f9-4984-9a4c-3bc25c472c43" name="Default Changelist" comment="" />
+      <created>1579462194121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579462194121</updated>
+      <workItem from="1579462195569" duration="12239000" />
+      <workItem from="1579553520217" duration="2868000" />
+      <workItem from="1579557374813" duration="281000" />
+      <workItem from="1579629858939" duration="7867000" />
+      <workItem from="1579669180347" duration="1644000" />
+      <workItem from="1579704440934" duration="3906000" />
+      <workItem from="1579711472278" duration="3818000" />
+      <workItem from="1579723658981" duration="891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="529" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579463058340">
+      <screen x="0" y="23" width="2560" height="977" />
+    </state>
+    <state x="529" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.977@0.23.2560.977" timestamp="1579463058340" />
+    <state x="624" y="121" key="SettingsEditor" timestamp="1579723933669">
+      <screen x="0" y="23" width="2560" height="1336" />
+    </state>
+    <state x="624" y="121" key="SettingsEditor/0.23.2560.1336@0.23.2560.1336" timestamp="1579723933669" />
+    <state x="722" y="88" key="SettingsEditor/0.23.2560.977@0.23.2560.977" timestamp="1579463617821" />
+    <state x="1120" y="106" width="383" height="685" key="ftp.server.browser" timestamp="1579463610321">
+      <screen x="0" y="23" width="2560" height="977" />
+    </state>
+    <state x="1120" y="106" width="383" height="685" key="ftp.server.browser/0.23.2560.977@0.23.2560.977" timestamp="1579463610321" />
+  </component>
+</project>
